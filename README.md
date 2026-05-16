@@ -1,5 +1,3 @@
-## My GitHub Stats
-
 
 <p align="left">
   <picture>
