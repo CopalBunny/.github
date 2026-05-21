@@ -9,7 +9,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="700" />
     <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="700" />
-    <img alt="" src="https://raw.githubusercontent.com/hakumaru12/hakumaru12/output-3d-contrib/day.svg" />
+    <img alt="" src="https://raw.githubusercontent.com/copalbunny/.github/profile/output-3d-contrib/day.svg" />
   </picture>
   <picture>
    	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="700" />
@@ -48,7 +48,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hakumaru12)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/copalbunny)
 
 </div>
 
