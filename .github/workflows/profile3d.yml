@@ -20,7 +20,7 @@ jobs:
         env:
           # プライベートリポジトリを含める場合はPERSONAL_ACCESS_TOKENを使用
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ github.hakumaru12 }}
       - name: Commit & Push
         run: |
           git config user.name "hakumaru12"
