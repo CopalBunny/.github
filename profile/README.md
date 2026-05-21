@@ -60,6 +60,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CopalBunny&style=for-the-badge&color=58A6FF)
 
-<sub>Built with ❤️, Coffee ☕, and probably too much time in the terminal 🖥️</sub>
+<sub>Built with ❤️, Coffee ☕, and probably too much time in the terminal 🖥️ From Hakumaru12</sub>
 
 </div>
